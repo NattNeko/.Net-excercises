@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.Form1.resources
+C:\Users\1\source\repos\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.Properties.Resources.resources
+C:\Users\1\source\repos\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.exe.config
+C:\Users\1\source\repos\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.exe
+C:\Users\1\source\repos\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.pdb
+C:\Users\1\source\repos\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.exe
+C:\Users\1\source\repos\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.pdb
